@@ -1,4 +1,4 @@
-# Maven Wrapper para utilizar nos LABS (versao: 3.6.3)
+# Maven Wrapper para utilizar nos LABS (versao: 3.8.4)
 
 Verificar a versão:
 
